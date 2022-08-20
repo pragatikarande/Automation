@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name = "src.test.java">
+    <listeners>
+        <!--       <listener class-name="Utility.listeners.Listeners"></listener>-->
+       <listener class-name="Utilities.ExtentReporterNG"></listener>
+    </listeners>
+    <test name = "Sample Tests1">
+        <classes>
+            <class name = "Academy.validateRegistration" />
+            <!--            <class name="demo" />-->
+            <!--            <class name = "baseClass.indexPageTest" />-->
+            <!--            <class name="baseClass.loginPageTest"/>-->
+        </classes>
+    </test>
+</suite>

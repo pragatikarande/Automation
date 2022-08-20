@@ -1,0 +1,35 @@
+2022-06-10 12:13:27,355 [main] INFO Utilities.Logs.Log - initializing driver
+2022-06-10 12:13:29,021 [main] INFO Utilities.Logs.Log - click on login button
+2022-06-10 12:13:29,155 [main] INFO Utilities.Logs.Log - click on forgot password 
+2022-06-10 12:13:29,160 [main] INFO Utilities.Logs.Log - get current URl after navigating to forgot password page
+2022-06-10 12:13:29,162 [main] INFO Utilities.Logs.Log - verify actual and expected url are matching or not
+2022-06-10 12:13:42,054 [main] INFO Utilities.Logs.Log - clicked on cancel button
+2022-06-10 12:13:43,227 [main] INFO Utilities.Logs.Log - Verified navigation bar is present
+2022-07-10 13:57:40,245 [main] INFO HomePageLog4J - initializing driver
+2022-07-10 13:57:47,438 [main] INFO HomePageLog4J - launch app url
+2022-07-10 13:57:47,441 [main] INFO HomePageLog4J - create object for landing page
+2022-07-10 13:57:48,871 [main] INFO HomePageLog4J - click on login button
+2022-07-10 13:57:48,873 [main] INFO HomePageLog4J - creating object of login page
+2022-07-10 13:57:48,962 [main] INFO HomePageLog4J - provide input for username field
+2022-07-10 13:57:49,013 [main] INFO HomePageLog4J - provide input for password field
+2022-07-10 13:57:49,262 [main] INFO HomePageLog4J - click on login button
+2022-07-10 13:57:50,768 [main] INFO HomePageLog4J - initializing driver
+2022-07-10 13:57:58,360 [main] INFO HomePageLog4J - launch app url
+2022-07-10 13:57:58,362 [main] INFO HomePageLog4J - create object for landing page
+2022-07-10 13:58:01,772 [main] INFO HomePageLog4J - click on login button
+2022-07-10 13:58:01,773 [main] INFO HomePageLog4J - creating object of login page
+2022-07-10 13:58:01,859 [main] INFO HomePageLog4J - provide input for username field
+2022-07-10 13:58:01,912 [main] INFO HomePageLog4J - provide input for password field
+2022-07-10 13:58:02,127 [main] INFO HomePageLog4J - click on login button
+2022-08-20 11:25:45,872 [main] INFO Utilities.Logs.Log - initializing driver
+2022-08-20 11:25:46,849 [main] INFO Utilities.Logs.Log - click on login button
+2022-08-20 11:25:46,980 [main] INFO Utilities.Logs.Log - click on forgot password 
+2022-08-20 11:25:46,985 [main] INFO Utilities.Logs.Log - get current URl after navigating to forgot password page
+2022-08-20 11:25:46,987 [main] INFO Utilities.Logs.Log - verify actual and expected url are matching or not
+2022-08-20 12:14:36,910 [main] INFO Utilities.Logs.Log - initializing driver
+2022-08-20 12:14:38,261 [main] INFO Utilities.Logs.Log - click on login button
+2022-08-20 12:14:38,394 [main] INFO Utilities.Logs.Log - click on forgot password 
+2022-08-20 12:14:38,423 [main] INFO Utilities.Logs.Log - get current URl after navigating to forgot password page
+2022-08-20 12:14:38,424 [main] INFO Utilities.Logs.Log - verify actual and expected url are matching or not
+2022-08-20 12:14:54,615 [main] INFO Utilities.Logs.Log - clicked on cancel button
+2022-08-20 12:14:55,992 [main] INFO Utilities.Logs.Log - Verified navigation bar is present
